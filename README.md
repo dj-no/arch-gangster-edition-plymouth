@@ -1,6 +1,16 @@
-# WindozeXP 1080 Plymouth theme
+# Arch Linux Gangster Edition Plymouth theme
 
-## Disclaimer
+this is pretty much an asset swap of the original WindozeXP theme
+install instructions are the same
+
+## Credit
+
+- credit to the original creator of the theme (https://www.pling.com/p/1202116/)
+- credit to the creator of the 1080p upscaled version (https://www.pling.com/p/1528591/ or https://github.com/Liftu/WindozeXP-1080-Plymouth-theme)
+
+## ORIGINAL README
+
+### Disclaimer
 
 I just edited the work of LASZCZ (https://www.pling.com/p/1202116/)
 
@@ -10,7 +20,7 @@ Edits from original :
 - Translated the copyright to english.
 - Moved the progress bar down a little to match the original XP loading screen.
 
-## Installation
+### Installation
 
 Just run `./install` to install it.
 You can run `./test-plymouth` to display the current bootsplash theme.

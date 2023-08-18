@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=arch-gangster-edition
+Description=plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/arch-gangster-edition
+ScriptFile=/usr/share/plymouth/themes/arch-gangster-edition/arch-gangster-edition.script
+
+

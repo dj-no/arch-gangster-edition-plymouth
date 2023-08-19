@@ -1,6 +1,7 @@
 # Arch Linux Gangster Edition Plymouth theme
 
-this is pretty much an asset swap of the original WindozeXP theme
+video: https://youtu.be/75STxsen-yU  
+this is pretty much an asset swap of the original WindozeXP theme  
 install instructions are the same
 
 ## Credit
